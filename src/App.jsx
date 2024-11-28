@@ -1,6 +1,4 @@
 import { useState } from 'react'
-import Button from './components/Button'
-import Counter from './components/Counter'
 import ItemListContainer from './components/ItemListContainer'
 
 import NavBar from './components/NavBar'
